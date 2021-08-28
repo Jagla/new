@@ -30,3 +30,4 @@ class TestGoogle(BaseClass):
 
         self.driver.get_screenshot_as_file("screen.png")
         self.driver.get_screenshot_as_file("screen.png")
+        self.driver.get_screenshot_as_file("screen.png")
